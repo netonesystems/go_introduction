@@ -1,0 +1,33 @@
+* {
+  text-align: center;
+}
+
+#menu {
+  text-align: left;
+  height: 50px;
+  background-color: #FFFFFF;
+  border-radius: 5px;
+  display: grid;
+  gap: 2px;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.menu_item {
+  background-color: #9999FF;
+  font-size: xx-large;
+}
+
+#header {
+  height: 500px;
+  /* background-image: url("https://cdn-images-1.medium.com/max/1200/1*zDC7bc9oNzH3qy-6yqxCgQ.jpeg"); */
+  background-image: url("https://www.arresteddevops.com/episode/img/gophers-banner.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+#footer {
+  height: 10%;
+  background-color: #9999FF;
+  border-radius: 0px 0px 5px 5px;
+}
