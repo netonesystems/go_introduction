@@ -9,7 +9,7 @@ To run this repo, it require npm v5.6.0 or later to install dependancies.
 ```
 
 # Install dependancies
-Run `npm command` under root of this repo.
+Run `npm` command under root of this repo.
 ```
 # npm install
 ```
